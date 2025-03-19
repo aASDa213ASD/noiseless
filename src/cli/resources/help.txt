@@ -1,0 +1,6 @@
+noiseless: These are common commands used to interract with the app
+usage: log [green]<file.log>[/green] [[green]--info[/green] | [green]--filter <file.json>[/green]]
+       version [[green]-v[/green] | [green]--verbose[/green]]
+       clear
+       help
+       exit

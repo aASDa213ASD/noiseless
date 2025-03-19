@@ -1,0 +1,14 @@
+# Python virtual environment and other mess
+.env/
+__pycache__/
+
+# Synthetic
+data/logs/*
+!data/logs/.put_log_files_here
+
+data/filters/*
+!data/filters/.put_filter_jsons_here
+!data/filters/example.json
+
+data/filtered_logs/*
+!data/filtered_logs/.filtered_logs_will_appear_here

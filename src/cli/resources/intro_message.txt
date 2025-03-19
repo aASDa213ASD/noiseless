@@ -1,0 +1,8 @@
+[bold red]
+        )
+       (
+        )         [/bold red]Welcome home, [bold blue]master[/bold blue][bold red]
+    _.-~(~-.      Noiseless[/bold red] by [underline bold blue]@aASDa213ASD[/underline bold blue][bold red]
+   (@\`---'/.
+  ('  `._.'  `)   [/bold red]Type [bold red]'help'[/bold red] to get more info[bold red]
+   `-..___..-'    [/bold red]on available commands[bold red]
